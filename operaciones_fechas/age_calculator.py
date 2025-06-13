@@ -1,4 +1,4 @@
-from datetime import date, datetime
+from datetime import datetime
 
 FORMATO="%d/%m/%Y" #constante que define el formato de las fechas
 
