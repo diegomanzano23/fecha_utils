@@ -70,8 +70,3 @@ Si deseas contribuir al proyecto, sigue estos pasos:
 📌 Autor: Diego Manzano
 📅 Fecha de creación: Junio 2025
 🔗 Licencia: MIT
-
-¡Este README.md debería ayudarte a documentar tu proyecto de manera clara y profesional! ¿Te gustaría agregar algún otro detalle o sección? 😃
-Let me know if necesitas algún ajuste o mejora. ¡Estoy aquí para ayudar! 🚀
-
-
